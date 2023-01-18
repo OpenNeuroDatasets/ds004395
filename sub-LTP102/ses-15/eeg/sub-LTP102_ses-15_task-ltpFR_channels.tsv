@@ -6,7 +6,7 @@ E4	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E5	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E6	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E7	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
-E8	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
+E8	EOG	µV	0.0	250.0	ElectroOculoGram	500.0	good	n/a
 E9	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E10	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E11	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
@@ -23,7 +23,7 @@ E21	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E22	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E23	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E24	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
-E25	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
+E25	EOG	µV	0.0	250.0	ElectroOculoGram	500.0	good	n/a
 E26	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E27	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E28	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
@@ -124,7 +124,7 @@ E122	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E123	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E124	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
 E125	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
-E126	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
-E127	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
+E126	EOG	µV	0.0	250.0	ElectroOculoGram	500.0	good	n/a
+E127	EOG	µV	0.0	250.0	ElectroOculoGram	500.0	good	n/a
 E128	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
-E129	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
+Cz	EEG	µV	0.0	250.0	ElectroEncephaloGram	500.0	good	n/a
