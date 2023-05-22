@@ -1,313 +1,313 @@
-mstime	trial_type	stim_file	subject	experiment	session	trial	task	item_name	item_num	recog_conf	resp	color_b	color_g	color_r	case	font
-0	SESS_START	n/a	LTP255	ltpFR	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-122019	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	OUTFIT	988	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-125933	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	QUILT	1151	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-129932	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COFFEE	341	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-133930	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	ASIA	46	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-137962	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COUCH	386	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-141927	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	DESK	452	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-146126	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	FLOOR	581	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-150091	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CROSS	413	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-154039	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	LAKE	796	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-158021	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	WALL	1582	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-161886	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	ABDOMEN	1	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-165817	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	BUCKET	184	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-169966	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COUGAR	387	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-174031	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	WHISKERS	1605	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-178231	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CATCHER	258	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-182195	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CATERPILLAR	259	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-188269	REC_START	n/a	LTP255	ltpFR	0	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-189211	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	ABDOMEN	1	n/a	-1	n/a	n/a	n/a	n/a	n/a
-190417	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	LAKE	796	n/a	-1	n/a	n/a	n/a	n/a	n/a
-191634	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COUGAR	387	n/a	-1	n/a	n/a	n/a	n/a	n/a
-192829	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CATERPILLAR	259	n/a	-1	n/a	n/a	n/a	n/a	n/a
-194260	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	ASIA	46	n/a	-1	n/a	n/a	n/a	n/a	n/a
-195513	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	OUTFIT	988	n/a	-1	n/a	n/a	n/a	n/a	n/a
-196674	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COUCH	386	n/a	-1	n/a	n/a	n/a	n/a	n/a
-198007	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	DESK	452	n/a	-1	n/a	n/a	n/a	n/a	n/a
-199164	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	QUILT	1151	n/a	-1	n/a	n/a	n/a	n/a	n/a
-200435	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COFFEE	341	n/a	-1	n/a	n/a	n/a	n/a	n/a
-205493	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CROSS	413	n/a	-1	n/a	n/a	n/a	n/a	n/a
-217485	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	LAKE	796	n/a	-1	n/a	n/a	n/a	n/a	n/a
-272537	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	SAXOPHONE	1240	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-276452	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONDUCTOR	362	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-280566	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONSOLE	364	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-284631	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CART	250	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-288663	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONCERT	360	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-292662	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	FIDDLE	561	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-296527	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	ROBIN	1199	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-300526	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	GIRL	637	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-304640	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	MINT	898	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-308489	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	VAMPIRE	1547	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-312353	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	PLATE	1086	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-316486	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	MONGOOSE	909	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-320316	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	BAND	78	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-324348	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	HANGER	687	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-328414	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	COSTUME	383	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-332513	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	UTENSIL	1542	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-338251	REC_START	n/a	LTP255	ltpFR	0	2	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-338915	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	GIRL	637	n/a	-1	n/a	n/a	n/a	n/a	n/a
-339818	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	MINT	898	n/a	-1	n/a	n/a	n/a	n/a	n/a
-340999	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	MONGOOSE	909	n/a	-1	n/a	n/a	n/a	n/a	n/a
-342253	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	BAND	78	n/a	-1	n/a	n/a	n/a	n/a	n/a
-343348	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	HANGER	687	n/a	-1	n/a	n/a	n/a	n/a	n/a
-344762	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONDUCTOR	362	n/a	-1	n/a	n/a	n/a	n/a	n/a
-346257	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	FIDDLE	561	n/a	-1	n/a	n/a	n/a	n/a	n/a
-348159	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	SAXOPHONE	1240	n/a	-1	n/a	n/a	n/a	n/a	n/a
-349815	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	PLATE	1086	n/a	-1	n/a	n/a	n/a	n/a	n/a
-354183	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONSOLE	364	n/a	-1	n/a	n/a	n/a	n/a	n/a
-418118	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CLAM	315	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-422100	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	DIAL	457	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-426115	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	WIRE	1616	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-430297	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	RULER	1216	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-434514	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	BLADE	134	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-438679	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	FEAST	556	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-442895	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	TAPE	1433	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-447094	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	SHELL	1281	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-451126	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CUPBOARD	425	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-455107	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CHURCH	307	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-458938	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	PLANT	1083	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-463154	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	PLUM	1090	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-467153	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	SHARK	1275	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-471268	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	TYPEWRITER	1531	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-475183	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	COLESLAW	344	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-479031	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	RICE	1190	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-484770	REC_START	n/a	LTP255	ltpFR	0	3	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-485781	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	RICE	1190	n/a	-1	n/a	n/a	n/a	n/a	n/a
-487582	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CLAM	315	n/a	-1	n/a	n/a	n/a	n/a	n/a
-489350	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CHURCH	307	n/a	-1	n/a	n/a	n/a	n/a	n/a
-493684	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	SHELL	1281	n/a	-1	n/a	n/a	n/a	n/a	n/a
-518210	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	SHARK	1275	n/a	-1	n/a	n/a	n/a	n/a	n/a
-530649	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	DIAL	457	n/a	-1	n/a	n/a	n/a	n/a	n/a
-541007	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	FEAST	556	n/a	-1	n/a	n/a	n/a	n/a	n/a
-565306	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	EARTH	515	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-569423	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CLARINET	317	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-573421	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	SILK	1307	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-577251	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CHART	282	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-581149	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	BUYER	208	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-585081	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	FLANNEL	574	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-589229	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CLERK	321	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-593161	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	COMPUTER	359	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-597360	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	BARREL	91	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-601258	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	SALOON	1228	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-605458	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	DAM	436	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-609556	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	WATERFALL	1595	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-613705	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	ATTORNEY	58	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-617704	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	MAP	865	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-621685	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	UNIVERSE	1540	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-625834	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	ATLAS	53	n/a	-1	1	1.0	1.0	upper	../fonts/Verdana.ttf
-631724	REC_START	n/a	LTP255	ltpFR	0	4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-632414	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	BARREL	91	n/a	-1	n/a	n/a	n/a	n/a	n/a
-633184	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	SALOON	1228	n/a	-1	n/a	n/a	n/a	n/a	n/a
-634820	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	DAM	436	n/a	-1	n/a	n/a	n/a	n/a	n/a
-636262	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	UNIVERSE	1540	n/a	-1	n/a	n/a	n/a	n/a	n/a
-637480	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	ATLAS	53	n/a	-1	n/a	n/a	n/a	n/a	n/a
-638843	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	EARTH	515	n/a	-1	n/a	n/a	n/a	n/a	n/a
-639959	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	SILK	1307	n/a	-1	n/a	n/a	n/a	n/a	n/a
-641462	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CLARINET	317	n/a	-1	n/a	n/a	n/a	n/a	n/a
-642901	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	BARREL	91	n/a	-1	n/a	n/a	n/a	n/a	n/a
-645015	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	WATERFALL	1595	n/a	-1	n/a	n/a	n/a	n/a	n/a
-648894	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CLERK	321	n/a	-1	n/a	n/a	n/a	n/a	n/a
-650160	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	ATTORNEY	58	n/a	-1	n/a	n/a	n/a	n/a	n/a
-653620	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CHART	282	n/a	-1	n/a	n/a	n/a	n/a	n/a
-1069390	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	FLIPPER	580	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1073389	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	BISON	131	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1077570	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CREATURE	403	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1081669	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	ANIMAL	23	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1085484	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	ORCHESTRA	981	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1089699	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	COMET	353	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1093647	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CLOUD	328	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1097746	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	PADDING	999	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1101828	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	SOFA	1342	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1105659	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	BARN	89	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1109708	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CLIFF	322	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1113790	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	AGENT	10	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1117972	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	DILL	465	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1121904	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	SEAFOOD	1260	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1125869	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	VIOLIN	1571	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1129984	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	COLT	349	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1135991	REC_START	n/a	LTP255	ltpFR	0	5	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1136820	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	COLT	349	n/a	0	n/a	n/a	n/a	n/a	n/a
-1137757	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	ANIMAL	23	n/a	1	n/a	n/a	n/a	n/a	n/a
-1139036	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	n/a	PECAN	1036	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1140914	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CREATURE	403	n/a	1	n/a	n/a	n/a	n/a	n/a
-1142154	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CLOUD	328	n/a	0	n/a	n/a	n/a	n/a	n/a
-1143321	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	SEAFOOD	1260	n/a	1	n/a	n/a	n/a	n/a	n/a
-1166427	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	BARN	89	n/a	0	n/a	n/a	n/a	n/a	n/a
-1172142	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	AGENT	10	n/a	0	n/a	n/a	n/a	n/a	n/a
-1225059	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	TOWN	1491	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1229208	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	MONK	910	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1233156	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	COMB	351	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1237272	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	SHOWER	1296	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1241137	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	PUDDLE	1140	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1245235	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	ICEBERG	731	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1249452	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	FEATHER	557	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1253299	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	SHACK	1273	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1257364	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	FOREHEAD	592	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1261447	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	FIREMAN	569	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1265344	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	WHEAT	1602	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1269394	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	HAWK	692	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1273559	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	ROOM	1206	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1277607	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	CORPORATION	382	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1281689	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	PELICAN	1039	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1285738	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	BIRD	129	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1291327	REC_START	n/a	LTP255	ltpFR	0	6	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1291977	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	FIREMAN	569	n/a	1	n/a	n/a	n/a	n/a	n/a
-1293144	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	WHEAT	1602	n/a	1	n/a	n/a	n/a	n/a	n/a
-1294159	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	HAWK	692	n/a	1	n/a	n/a	n/a	n/a	n/a
-1295293	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	ROOM	1206	n/a	0	n/a	n/a	n/a	n/a	n/a
-1296492	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	PELICAN	1039	n/a	1	n/a	n/a	n/a	n/a	n/a
-1297637	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	BIRD	129	n/a	1	n/a	n/a	n/a	n/a	n/a
-1298863	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	MONK	910	n/a	1	n/a	n/a	n/a	n/a	n/a
-1299795	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	SHOWER	1296	n/a	0	n/a	n/a	n/a	n/a	n/a
-1301162	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	COMB	351	n/a	0	n/a	n/a	n/a	n/a	n/a
-1373971	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	ELEVATOR	524	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1377952	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SURF	1412	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1381817	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SLIDE	1326	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1385916	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	TUBE	1516	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1390048	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	LADDER	793	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1394030	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	BROOK	177	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1398145	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	CARTON	251	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1402043	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	FAMILY	550	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1405991	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	FORK	594	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1410090	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	EUROPE	541	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1414272	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SKILLET	1317	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1418473	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	KITCHEN	778	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1422404	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	TOY	1492	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1426335	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	COOK	372	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1430249	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	CHEF	290	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1434466	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	AUDIENCE	59	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1440355	REC_START	n/a	LTP255	ltpFR	0	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1441394	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	AUDIENCE	59	n/a	0	n/a	n/a	n/a	n/a	n/a
-1442302	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	CHEF	290	n/a	1	n/a	n/a	n/a	n/a	n/a
-1443561	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SKILLET	1317	n/a	0	n/a	n/a	n/a	n/a	n/a
-1444917	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	FAMILY	550	n/a	1	n/a	n/a	n/a	n/a	n/a
-1446142	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	KITCHEN	778	n/a	0	n/a	n/a	n/a	n/a	n/a
-1447207	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	FORK	594	n/a	0	n/a	n/a	n/a	n/a	n/a
-1448505	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	-1	UTENSIL	1542	n/a	-1	n/a	n/a	n/a	n/a	n/a
-1455872	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	AUDIENCE	59	n/a	0	n/a	n/a	n/a	n/a	n/a
-1468614	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	n/a	PIPE	1073	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1470624	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SLIDE	1326	n/a	0	n/a	n/a	n/a	n/a	n/a
-1471927	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	TUBE	1516	n/a	0	n/a	n/a	n/a	n/a	n/a
-1475484	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SURF	1412	n/a	0	n/a	n/a	n/a	n/a	n/a
-1518466	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	CIRCUS	311	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1522681	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	BOXER	160	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1526646	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	DRESS	495	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1530577	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	LABEL	790	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1534410	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	MEDAL	885	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1538558	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	COTTAGE	384	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1542640	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	TIGER	1467	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1546505	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	BOSS	152	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1550653	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	WINNER	1615	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1554535	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	MISSILE	900	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1558650	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	TANK	1432	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1562516	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	FURNITURE	616	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1566514	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	WILDERNESS	1610	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1570445	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	SALAD	1224	n/a	0	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1574342	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	CAULIFLOWER	262	n/a	n/a	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1577388	SLOW_MSG	n/a	LTP255	ltpFR	0	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1579863	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	EMPLOYER	532	n/a	1	0	0.5869140625	0.422607421875	upper	../fonts/amplitud.ttf
-1585786	REC_START	n/a	LTP255	ltpFR	0	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1586840	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	EMPLOYER	532	n/a	1	n/a	n/a	n/a	n/a	n/a
-1588162	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	CAULIFLOWER	262	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1590002	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	CIRCUS	311	n/a	0	n/a	n/a	n/a	n/a	n/a
-1597375	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	WHEAT	1602	n/a	1	n/a	n/a	n/a	n/a	n/a
-1602927	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	TIGER	1467	n/a	1	n/a	n/a	n/a	n/a	n/a
-1668631	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SUBMARINE	1398	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1672463	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	FOREST	593	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1676678	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	BUSH	202	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1680760	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	IRON	744	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1684742	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	LODGE	839	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1688790	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	TART	1436	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1692906	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	JAR	750	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1697055	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SPONGE	1355	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1701037	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	FOUNTAIN	597	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1705236	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	WICK	1607	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1709301	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	AUTOMOBILE	62	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1713350	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SALESMAN	1225	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1717214	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SHORTCAKE	1292	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1721346	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	CELERY	266	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1725345	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	GRAPE	654	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1729310	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	REEF	1177	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1735435	REC_START	n/a	LTP255	ltpFR	0	9	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1736209	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	CELERY	266	n/a	0	n/a	n/a	n/a	n/a	n/a
-1737410	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	GRAPE	654	n/a	0	n/a	n/a	n/a	n/a	n/a
-1738639	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	AUTOMOBILE	62	n/a	1	n/a	n/a	n/a	n/a	n/a
-1739899	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SALESMAN	1225	n/a	1	n/a	n/a	n/a	n/a	n/a
-1741519	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	REEF	1177	n/a	1	n/a	n/a	n/a	n/a	n/a
-1744376	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	WICK	1607	n/a	0	n/a	n/a	n/a	n/a	n/a
-1749458	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	LODGE	839	n/a	1	n/a	n/a	n/a	n/a	n/a
-1820989	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	CACTUS	215	n/a	3	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1823080	KEY_MSG	n/a	LTP255	ltpFR	0	10	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1825690	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	SNACK	1331	n/a	2	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1826677	KEY_MSG	n/a	LTP255	ltpFR	0	10	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1829722	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	MARKET	871	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1833770	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	MOUTH	926	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1837651	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	WAND	1586	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1841851	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	PICKLE	1059	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1845933	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	LIMB	822	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1849764	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	CYCLONE	431	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1853879	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	RUST	1219	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1857995	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	CHERRY	293	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1862060	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TOOTHPASTE	1483	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1866226	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TREE	1502	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1870443	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	WINDSHIELD	1612	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1874356	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TAXI	1438	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1878373	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	SKIRT	1319	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1882455	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	HIKER	708	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1888428	REC_START	n/a	LTP255	ltpFR	0	10	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-1889088	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	HIKER	708	n/a	1	n/a	n/a	n/a	n/a	n/a
-1890024	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	SKIRT	1319	n/a	0	n/a	n/a	n/a	n/a	n/a
-1891623	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	WINDSHIELD	1612	n/a	1	n/a	n/a	n/a	n/a	n/a
-1892847	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TREE	1502	n/a	1	n/a	n/a	n/a	n/a	n/a
-1937606	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TAXI	1438	n/a	1	n/a	n/a	n/a	n/a	n/a
-1944775	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	HIKER	708	n/a	1	n/a	n/a	n/a	n/a	n/a
-1958313	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	CACTUS	215	n/a	3	n/a	n/a	n/a	n/a	n/a
-1967375	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	OPERATOR	979	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1971390	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	SWITCH	1422	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1975237	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	NITROGEN	954	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1979268	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	JEEP	753	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1983150	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	SUN	1406	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1987198	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CHEMICAL	291	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1991096	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	MICROSCOPE	891	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1995245	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	FREEWAY	603	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-1999462	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	SPRINKLE	1359	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2003594	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	SWIMMER	1420	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2007642	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	TAR	1435	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2011508	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CEILING	265	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2015540	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	RAISIN	1163	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2019454	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	GLOVE	642	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2023419	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CIGARETTE	309	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2027249	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	PIPE	1073	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2033206	REC_START	n/a	LTP255	ltpFR	0	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-2034019	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	RAISIN	1163	n/a	0	n/a	n/a	n/a	n/a	n/a
-2034951	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	GLOVE	642	n/a	0	n/a	n/a	n/a	n/a	n/a
-2035828	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CIGARETTE	309	n/a	0	n/a	n/a	n/a	n/a	n/a
-2037241	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	PIPE	1073	n/a	0	n/a	n/a	n/a	n/a	n/a
-2038871	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	JEEP	753	n/a	1	n/a	n/a	n/a	n/a	n/a
-2040101	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	TAR	1435	n/a	0	n/a	n/a	n/a	n/a	n/a
-2041610	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CEILING	265	n/a	1	n/a	n/a	n/a	n/a	n/a
-2055461	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	OPERATOR	979	n/a	1	n/a	n/a	n/a	n/a	n/a
-2112153	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	POSSUM	1112	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2116235	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	TORTOISE	1486	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2120418	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	BANQUET	86	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2124633	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	PALM	1007	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2128482	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	BANJO	82	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2132463	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	JUG	762	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2136529	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	CHIP	303	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2140393	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	SCREEN	1253	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2144274	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DIRECTOR	471	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2148373	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	STAPLER	1372	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2152555	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	SAP	1233	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2156437	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	OAR	966	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2160436	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	RECEIPT	1173	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2164534	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DINER	467	n/a	1	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2168565	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	NOTEBOOK	959	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2172448	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DIPLOMA	470	n/a	0	1	0.412841796875	0.57763671875	lower	../fonts/zerothre.ttf
-2178336	REC_START	n/a	LTP255	ltpFR	0	12	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-2179189	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DINER	467	n/a	1	n/a	n/a	n/a	n/a	n/a
-2180147	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DIPLOMA	470	n/a	0	n/a	n/a	n/a	n/a	n/a
-2181444	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	NOTEBOOK	959	n/a	0	n/a	n/a	n/a	n/a	n/a
-2182998	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	OAR	966	n/a	1	n/a	n/a	n/a	n/a	n/a
-2188101	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	BANJO	82	n/a	1	n/a	n/a	n/a	n/a	n/a
-2189926	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	PALM	1007	n/a	1	n/a	n/a	n/a	n/a	n/a
+mstime	trial_type	stim_file	subject	experiment	session	trial	task	item_name	item_num	recog_resp	recog_conf	resp	color_r	color_g	color_b	case	font
+0	SESS_START	n/a	LTP255	ltpFR	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+122019	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	OUTFIT	988	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+125933	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	QUILT	1151	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+129932	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COFFEE	341	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+133930	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	ASIA	46	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+137962	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COUCH	386	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+141927	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	DESK	452	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+146126	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	FLOOR	581	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+150091	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CROSS	413	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+154039	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	LAKE	796	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+158021	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	WALL	1582	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+161886	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	ABDOMEN	1	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+165817	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	BUCKET	184	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+169966	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COUGAR	387	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+174031	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	WHISKERS	1605	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+178231	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CATCHER	258	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+182195	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CATERPILLAR	259	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+188269	REC_START	n/a	LTP255	ltpFR	0	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+189211	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	ABDOMEN	1	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+190417	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	LAKE	796	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+191634	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COUGAR	387	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+192829	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CATERPILLAR	259	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+194260	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	ASIA	46	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+195513	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	OUTFIT	988	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+196674	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COUCH	386	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+198007	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	DESK	452	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+199164	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	QUILT	1151	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+200435	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	COFFEE	341	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+205493	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	CROSS	413	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+217485	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	1	-1	LAKE	796	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+272537	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	SAXOPHONE	1240	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+276452	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONDUCTOR	362	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+280566	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONSOLE	364	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+284631	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CART	250	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+288663	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONCERT	360	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+292662	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	FIDDLE	561	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+296527	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	ROBIN	1199	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+300526	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	GIRL	637	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+304640	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	MINT	898	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+308489	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	VAMPIRE	1547	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+312353	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	PLATE	1086	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+316486	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	MONGOOSE	909	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+320316	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	BAND	78	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+324348	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	HANGER	687	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+328414	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	COSTUME	383	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+332513	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	UTENSIL	1542	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+338251	REC_START	n/a	LTP255	ltpFR	0	2	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+338915	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	GIRL	637	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+339818	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	MINT	898	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+340999	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	MONGOOSE	909	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+342253	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	BAND	78	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+343348	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	HANGER	687	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+344762	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONDUCTOR	362	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+346257	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	FIDDLE	561	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+348159	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	SAXOPHONE	1240	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+349815	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	PLATE	1086	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+354183	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	2	-1	CONSOLE	364	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+418118	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CLAM	315	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+422100	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	DIAL	457	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+426115	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	WIRE	1616	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+430297	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	RULER	1216	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+434514	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	BLADE	134	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+438679	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	FEAST	556	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+442895	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	TAPE	1433	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+447094	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	SHELL	1281	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+451126	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CUPBOARD	425	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+455107	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CHURCH	307	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+458938	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	PLANT	1083	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+463154	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	PLUM	1090	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+467153	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	SHARK	1275	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+471268	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	TYPEWRITER	1531	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+475183	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	COLESLAW	344	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+479031	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	RICE	1190	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+484770	REC_START	n/a	LTP255	ltpFR	0	3	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+485781	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	RICE	1190	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+487582	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CLAM	315	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+489350	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	CHURCH	307	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+493684	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	SHELL	1281	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+518210	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	SHARK	1275	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+530649	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	DIAL	457	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+541007	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	3	-1	FEAST	556	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+565306	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	EARTH	515	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+569423	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CLARINET	317	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+573421	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	SILK	1307	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+577251	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CHART	282	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+581149	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	BUYER	208	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+585081	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	FLANNEL	574	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+589229	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CLERK	321	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+593161	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	COMPUTER	359	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+597360	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	BARREL	91	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+601258	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	SALOON	1228	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+605458	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	DAM	436	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+609556	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	WATERFALL	1595	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+613705	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	ATTORNEY	58	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+617704	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	MAP	865	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+621685	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	UNIVERSE	1540	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+625834	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	ATLAS	53	n/a	n/a	-1	1.0	1.0	1	upper	Verdana.ttf
+631724	REC_START	n/a	LTP255	ltpFR	0	4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+632414	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	BARREL	91	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+633184	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	SALOON	1228	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+634820	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	DAM	436	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+636262	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	UNIVERSE	1540	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+637480	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	ATLAS	53	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+638843	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	EARTH	515	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+639959	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	SILK	1307	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+641462	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CLARINET	317	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+642901	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	BARREL	91	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+645015	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	WATERFALL	1595	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+648894	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CLERK	321	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+650160	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	ATTORNEY	58	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+653620	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	4	-1	CHART	282	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+1069390	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	FLIPPER	580	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1073389	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	BISON	131	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1077570	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CREATURE	403	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1081669	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	ANIMAL	23	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1085484	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	ORCHESTRA	981	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1089699	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	COMET	353	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1093647	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CLOUD	328	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1097746	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	PADDING	999	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1101828	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	SOFA	1342	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1105659	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	BARN	89	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1109708	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CLIFF	322	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1113790	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	AGENT	10	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1117972	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	DILL	465	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1121904	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	SEAFOOD	1260	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1125869	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	VIOLIN	1571	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1129984	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	COLT	349	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1135991	REC_START	n/a	LTP255	ltpFR	0	5	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1136820	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	COLT	349	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1137757	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	ANIMAL	23	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1139036	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	n/a	PECAN	1036	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1140914	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CREATURE	403	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1142154	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	CLOUD	328	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1143321	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	SEAFOOD	1260	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1166427	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	BARN	89	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1172142	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	5	1	AGENT	10	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1225059	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	TOWN	1491	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1229208	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	MONK	910	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1233156	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	COMB	351	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1237272	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	SHOWER	1296	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1241137	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	PUDDLE	1140	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1245235	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	ICEBERG	731	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1249452	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	FEATHER	557	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1253299	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	SHACK	1273	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1257364	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	FOREHEAD	592	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1261447	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	FIREMAN	569	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1265344	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	WHEAT	1602	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1269394	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	HAWK	692	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1273559	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	ROOM	1206	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1277607	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	CORPORATION	382	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1281689	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	PELICAN	1039	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1285738	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	BIRD	129	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1291327	REC_START	n/a	LTP255	ltpFR	0	6	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1291977	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	FIREMAN	569	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1293144	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	WHEAT	1602	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1294159	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	HAWK	692	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1295293	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	ROOM	1206	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1296492	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	PELICAN	1039	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1297637	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	BIRD	129	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1298863	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	MONK	910	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1299795	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	SHOWER	1296	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1301162	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	6	1	COMB	351	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1373971	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	ELEVATOR	524	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1377952	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SURF	1412	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1381817	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SLIDE	1326	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1385916	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	TUBE	1516	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1390048	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	LADDER	793	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1394030	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	BROOK	177	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1398145	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	CARTON	251	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1402043	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	FAMILY	550	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1405991	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	FORK	594	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1410090	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	EUROPE	541	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1414272	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SKILLET	1317	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1418473	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	KITCHEN	778	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1422404	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	TOY	1492	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1426335	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	COOK	372	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1430249	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	CHEF	290	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1434466	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	AUDIENCE	59	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1440355	REC_START	n/a	LTP255	ltpFR	0	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1441394	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	AUDIENCE	59	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1442302	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	CHEF	290	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1443561	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SKILLET	1317	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1444917	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	FAMILY	550	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1446142	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	KITCHEN	778	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1447207	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	FORK	594	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1448505	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	-1	UTENSIL	1542	n/a	n/a	-1	n/a	n/a	n/a	n/a	n/a
+1455872	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	AUDIENCE	59	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1468614	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	n/a	PIPE	1073	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1470624	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SLIDE	1326	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1471927	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	TUBE	1516	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1475484	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	7	1	SURF	1412	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1518466	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	CIRCUS	311	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1522681	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	BOXER	160	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1526646	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	DRESS	495	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1530577	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	LABEL	790	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1534410	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	MEDAL	885	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1538558	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	COTTAGE	384	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1542640	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	TIGER	1467	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1546505	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	BOSS	152	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1550653	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	WINNER	1615	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1554535	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	MISSILE	900	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1558650	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	TANK	1432	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1562516	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	FURNITURE	616	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1566514	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	WILDERNESS	1610	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1570445	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	SALAD	1224	n/a	n/a	0	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1574342	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	CAULIFLOWER	262	n/a	n/a	n/a	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1577388	SLOW_MSG	n/a	LTP255	ltpFR	0	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1579863	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	EMPLOYER	532	n/a	n/a	1	0.422607421875	0.5869140625	0	upper	amplitud.ttf
+1585786	REC_START	n/a	LTP255	ltpFR	0	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1586840	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	EMPLOYER	532	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1588162	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	CAULIFLOWER	262	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1590002	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	CIRCUS	311	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1597375	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	WHEAT	1602	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1602927	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	8	1	TIGER	1467	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1668631	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SUBMARINE	1398	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1672463	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	FOREST	593	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1676678	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	BUSH	202	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1680760	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	IRON	744	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1684742	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	LODGE	839	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1688790	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	TART	1436	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1692906	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	JAR	750	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1697055	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SPONGE	1355	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1701037	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	FOUNTAIN	597	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1705236	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	WICK	1607	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1709301	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	AUTOMOBILE	62	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1713350	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SALESMAN	1225	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1717214	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SHORTCAKE	1292	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1721346	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	CELERY	266	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1725345	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	GRAPE	654	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1729310	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	REEF	1177	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1735435	REC_START	n/a	LTP255	ltpFR	0	9	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1736209	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	CELERY	266	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1737410	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	GRAPE	654	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1738639	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	AUTOMOBILE	62	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1739899	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	SALESMAN	1225	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1741519	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	REEF	1177	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1744376	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	WICK	1607	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1749458	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	9	0	LODGE	839	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1820989	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	CACTUS	215	n/a	n/a	3	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1823080	KEY_MSG	n/a	LTP255	ltpFR	0	10	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1825690	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	SNACK	1331	n/a	n/a	2	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1826677	KEY_MSG	n/a	LTP255	ltpFR	0	10	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1829722	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	MARKET	871	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1833770	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	MOUTH	926	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1837651	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	WAND	1586	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1841851	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	PICKLE	1059	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1845933	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	LIMB	822	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1849764	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	CYCLONE	431	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1853879	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	RUST	1219	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1857995	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	CHERRY	293	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1862060	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TOOTHPASTE	1483	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1866226	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TREE	1502	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1870443	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	WINDSHIELD	1612	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1874356	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TAXI	1438	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1878373	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	SKIRT	1319	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1882455	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	HIKER	708	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1888428	REC_START	n/a	LTP255	ltpFR	0	10	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+1889088	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	HIKER	708	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1890024	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	SKIRT	1319	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+1891623	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	WINDSHIELD	1612	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1892847	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TREE	1502	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1937606	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	TAXI	1438	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1944775	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	HIKER	708	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+1958313	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	10	0	CACTUS	215	n/a	n/a	3	n/a	n/a	n/a	n/a	n/a
+1967375	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	OPERATOR	979	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1971390	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	SWITCH	1422	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1975237	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	NITROGEN	954	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1979268	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	JEEP	753	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1983150	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	SUN	1406	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1987198	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CHEMICAL	291	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1991096	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	MICROSCOPE	891	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1995245	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	FREEWAY	603	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+1999462	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	SPRINKLE	1359	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2003594	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	SWIMMER	1420	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2007642	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	TAR	1435	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2011508	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CEILING	265	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2015540	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	RAISIN	1163	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2019454	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	GLOVE	642	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2023419	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CIGARETTE	309	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2027249	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	PIPE	1073	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2033206	REC_START	n/a	LTP255	ltpFR	0	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2034019	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	RAISIN	1163	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+2034951	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	GLOVE	642	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+2035828	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CIGARETTE	309	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+2037241	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	PIPE	1073	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+2038871	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	JEEP	753	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+2040101	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	TAR	1435	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+2041610	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	CEILING	265	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+2055461	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	11	0	OPERATOR	979	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+2112153	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	POSSUM	1112	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2116235	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	TORTOISE	1486	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2120418	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	BANQUET	86	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2124633	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	PALM	1007	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2128482	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	BANJO	82	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2132463	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	JUG	762	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2136529	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	CHIP	303	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2140393	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	SCREEN	1253	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2144274	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DIRECTOR	471	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2148373	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	STAPLER	1372	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2152555	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	SAP	1233	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2156437	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	OAR	966	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2160436	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	RECEIPT	1173	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2164534	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DINER	467	n/a	n/a	1	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2168565	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	NOTEBOOK	959	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2172448	WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DIPLOMA	470	n/a	n/a	0	0.57763671875	0.412841796875	1	lower	zerothre.ttf
+2178336	REC_START	n/a	LTP255	ltpFR	0	12	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2179189	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DINER	467	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+2180147	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	DIPLOMA	470	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+2181444	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	NOTEBOOK	959	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+2182998	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	OAR	966	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+2188101	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	BANJO	82	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
+2189926	REC_WORD	wordpools/wasnorm_wordpool_less_exclusions.txt	LTP255	ltpFR	0	12	0	PALM	1007	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a
